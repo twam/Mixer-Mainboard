@@ -1,0 +1,18 @@
+(kicad_sch (version 20210406) (generator eeschema)
+
+  (uuid 810af88d-c437-4402-9882-a4ede47a5894)
+
+  (paper "A4")
+
+  (title_block
+    (title "Mixer: FPGA board")
+    (date "2021-03-28")
+    (rev "1")
+    (comment 1 "License: CC-BY-SA 4.0")
+    (comment 2 "Author: Tobias Müller, twam.info")
+  )
+
+  (lib_symbols
+  )
+
+)
